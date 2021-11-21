@@ -10,7 +10,7 @@ ul{
 }
 
 .container {
-    background: url('/images/denis-pavlovic-wl5AypUmamo-unsplash.jpg');
+    background: url('./background.jpg');
     background-position: center;
     height: 100vh;
     background-size: cover;
