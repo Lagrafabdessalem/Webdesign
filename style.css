@@ -10,7 +10,7 @@ ul{
 }
 
 .container {
-    background: url('./background1.jpg');
+    background: url('../background1.jpg');
     background-position: center;
     height: 100vh;
     background-size: cover;
